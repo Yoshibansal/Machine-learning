@@ -6,3 +6,6 @@ Linear Regression
 Logistic Regression
 
 Regression (Polynomial, Data Preprocessing)
+
+
+Neural Network
